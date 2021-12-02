@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Diff</key>
+	<array>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>collectA</string>
+			<key>ModifiedRange</key>
+			<string>{1154, 8}</string>
+			<key>OriginalContent</key>
+			<string>&lt;#fu</string>
+			<key>OriginalRange</key>
+			<string>{1154, 4}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>dToggl</string>
+			<key>ModifiedRange</key>
+			<string>{1163, 6}</string>
+			<key>OriginalContent</key>
+			<string>cNam</string>
+			<key>OriginalRange</key>
+			<string>{1159, 4}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string></string>
+			<key>ModifiedRange</key>
+			<string>{1170, 0}</string>
+			<key>OriginalContent</key>
+			<string>#&gt;</string>
+			<key>OriginalRange</key>
+			<string>{1164, 2}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>    moveForward()
+    collectGem()
+    moveForward()
+    toggleSwitch()
+    moveForward()
+</string>
+			<key>ModifiedRange</key>
+			<string>{1250, 90}</string>
+			<key>OriginalContent</key>
+			<string>    
+</string>
+			<key>OriginalRange</key>
+			<string>{1246, 5}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>collectAndToggle()
+turnLeft()
+collectAndToggle()
+moveForward()
+turnLeft()
+collectAndToggle()
+turnLeft()
+collectAndToggle()
+</string>
+			<key>ModifiedRange</key>
+			<string>{1389, 123}</string>
+			<key>OriginalContent</key>
+			<string>
+</string>
+			<key>OriginalRange</key>
+			<string>{1300, 1}</string>
+		</dict>
+	</array>
+	<key>File</key>
+	<string>Chapters/Document2.playgroundchapter/Pages/Challenge1.playgroundpage/main.swift</string>
+</dict>
+</plist>

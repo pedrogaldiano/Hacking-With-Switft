@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Diff</key>
+	<array>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>    collectGemTurnAround()
+    turnLeft()
+    turnLeft()
+    turnLeft()
+    moveForward()
+    turnLeft()
+</string>
+			<key>ModifiedRange</key>
+			<string>{1585, 105}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{1585, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>for _ in 0...2 {
+    solveRow()
+}
+</string>
+			<key>ModifiedRange</key>
+			<string>{1741, 34}</string>
+			<key>OriginalContent</key>
+			<string>solveRow()
+</string>
+			<key>OriginalRange</key>
+			<string>{1636, 11}</string>
+		</dict>
+	</array>
+	<key>File</key>
+	<string>Chapters/Document2.playgroundchapter/Pages/Challenge3.playgroundpage/main.swift</string>
+</dict>
+</plist>

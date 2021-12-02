@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>En primer lugar, añade un conjunto de valores [Int](glossary://Int) al vector `heights`. Si quieres añadir rápidamente más elementos al vector, pulsa el corchete para seleccionarlo y arrastra el corchete de cierre hacia la derecha.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

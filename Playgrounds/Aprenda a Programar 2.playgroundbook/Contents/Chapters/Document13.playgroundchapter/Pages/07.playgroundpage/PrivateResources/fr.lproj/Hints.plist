@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>L’[erreur d’index hors limites](glossary://index%20out%20of%20range%20error) se produit lorsque tu utilises un index qui se trouve en dehors des limites d’un tableau.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

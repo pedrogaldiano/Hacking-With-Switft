@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Diff</key>
+	<array>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>func andarMto() {
+    for _ in 0...6{
+        moveForward()
+    }
+}
+func vaiVolta() {
+    andarMto()
+    toggleSwitch()
+    turnLeft()
+    turnLeft()
+    andarMto()
+}
+</string>
+			<key>ModifiedRange</key>
+			<string>{1092, 167}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{1092, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>for _ in 0...2 {
+    moveForward()
+    moveForward()
+    turnRight()
+    vaiVolta()
+    turnRight()
+}
+</string>
+			<key>ModifiedRange</key>
+			<string>{1260, 102}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{1093, 0}</string>
+		</dict>
+	</array>
+	<key>File</key>
+	<string>Chapters/Document3.playgroundchapter/Pages/Challenge3.playgroundpage/main.swift</string>
+</dict>
+</plist>
